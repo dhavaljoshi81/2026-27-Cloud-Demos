@@ -51,6 +51,9 @@ CodeCoverage/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+# Ignore Visual Studio workspace files
+.vs/
+
 # NUnit
 *.VisualState.xml
 TestResult.xml
