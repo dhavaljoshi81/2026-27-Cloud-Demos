@@ -1,0 +1,54 @@
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.exe
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\aws-settings.json
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.deps.json
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.runtimeconfig.json
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.pdb
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\AWSSDK.S3.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.csproj.AssemblyReference.cache
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.AssemblyInfoInputs.cache
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.AssemblyInfo.cs
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.csproj.CoreCompileInputs.cache
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3Client.A4286371.Up2Date
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\refint\S3ClientConAppCS.dll
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.pdb
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.genruntimeconfig.cache
+C:\Git Repos\Cloud\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\ref\S3ClientConAppCS.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.exe
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\aws-settings.json
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.deps.json
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.runtimeconfig.json
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\S3ClientConAppCS.pdb
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\AWSSDK.S3.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.csproj.AssemblyReference.cache
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.AssemblyInfoInputs.cache
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.AssemblyInfo.cs
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.csproj.CoreCompileInputs.cache
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3Client.A4286371.Up2Date
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\refint\S3ClientConAppCS.dll
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.pdb
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\S3ClientConAppCS.genruntimeconfig.cache
+C:\Git Repos\Cloud Demos\S3BucketAccessProjects\S3ClientConAppCS\obj\Debug\net8.0\ref\S3ClientConAppCS.dll
